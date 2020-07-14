@@ -1,4 +1,4 @@
-package com.arya.controllers;
+package com.arya.controller;
 
 import com.arya.model.SuperHero;
 import org.springframework.http.MediaType;
