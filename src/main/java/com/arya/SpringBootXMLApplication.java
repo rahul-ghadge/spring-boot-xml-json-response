@@ -20,7 +20,9 @@ public class SpringBootXMLApplication implements WebMvcConfigurer {
 				favorParameter(true).
 				// http://localhost:8080/super-hero/tony?mediaType=json
 				parameterName("mediaType").
-				ignoreAcceptHeader(true).
+
+				// By uncommenting below line it will ignore Accept type from request
+				//ignoreAcceptHeader(true).
 
 				// for default XML response
 				defaultContentType(MediaType.APPLICATION_XML).
