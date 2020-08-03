@@ -19,8 +19,7 @@ and try below command in terminal
 > **```mvn clean install```** it will build application  
 
 Run jar file from below path with given command
-_GOTO >_ **~/absolute-path-to-directory/spring-boot-xml-json-response/target/**  
-> **```java -jar ~/path-to-project-directory/target/spring-boot-xml-json-response-0.0.1-SNAPSHOT.jar```
+> **```java -jar ~/path-to-project-directory/target/spring-boot-xml-json-response-0.0.1-SNAPSHOT.jar```**
 
 Or run main method from `SpringBootXMLApplication.java` as spring boot application.
 
