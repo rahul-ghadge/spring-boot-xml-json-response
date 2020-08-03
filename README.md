@@ -3,7 +3,10 @@
 Spring Boot XML and JSON response example - 
 This will return XML or JSON response as per request sent from client with given **Accept** header or **mediaType** parameter. 
 
-
+## Prerequisites 
+- Java (Java 8)
+- [Spring Boot](https://spring.io/projects/spring-boot)
+- [Maven](https://maven.apache.org/guides/index.html)
 
 ### Tools
 - Eclipse or IntelliJ IDEA (or any preferred IDE) with embedded Gradle
